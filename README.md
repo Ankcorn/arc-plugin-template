@@ -6,8 +6,8 @@ Use the plugin documentation to learn how to write a plugin [arc.codes/plugins](
 
 If you learn best from examples checkout the [arc-buckets-plugin](https://github.com/Ankcorn/arc-buckets-plugin)
 
-
 Introduction goes here
+
 ## Installation
 
 1. Install this plugin `npm i plugin-name`
