@@ -86,3 +86,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+
+.DS_Store
+buckets
+sample-project/sam.json
+sample-project/sam.yaml
