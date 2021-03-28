@@ -2,6 +2,11 @@
 
 > [Architect](arc.codes) serverless framework plugin template
 
+Use the plugin documentation to learn how to write a plugin [arc.codes/plugins](https://arc.codes/docs/en/guides/extend/plugins)
+
+If you learn best from examples checkout the [arc-buckets-plugin](https://github.com/Ankcorn/arc-buckets-plugin)
+
+
 Introduction goes here
 ## Installation
 
